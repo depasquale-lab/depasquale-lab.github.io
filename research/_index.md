@@ -43,23 +43,6 @@ Neural recordings from behaving animals are often much too complex to link direc
 
 {% include section.html %}
 
-{% capture text %}
-The olfactory system poses interesting challenges from a machine learning perspective. We are developing graph neural networks to model odorous chemicals, aiming to understand how odors are translated into neural activity at the periphery of the system. Additionally, we are developing connectome contrained models of higher processing areas in the olfactory system to glean insights into how these chemicals are processed and lead to behavior.
-
-[Keep an eye out for upcoming papers!]
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/website-gnn.png"
-  caption="Big picture modeling efforts for the olfactory system"
-  headline="Understand the olfactory system"
-  text=text
-%}
-
-{% include section.html %}
-
 # Publications
 
 For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).

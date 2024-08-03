@@ -21,6 +21,7 @@ Assistant Professor, Biomedical Engineering <br />
 Boston University <br />
 (617) 353-2816 <br />
 Room 413, 44 Cummington Mall, Boston, MA, 02215
+Blah blah blah
 
 {% include section.html %}
 

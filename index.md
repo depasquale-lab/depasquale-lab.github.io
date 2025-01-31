@@ -41,7 +41,7 @@ in prep
 
 {%
   include feature.html
-  image="images/julia.jpg"
+  image="images/julia.png"
   caption="SSM"
   headline="StateSpaceDynamics.jl"
   text=text

@@ -17,10 +17,4 @@ I am a PhD student in the Biomedical Engineering Department. I received my under
 
 ## Current Work
 
-I am interested in leveraging sophisticated machine learning techniques to understand complex behaviors in animals. My research focuses on applying graph neural networks to two key areas:
-
-1) Mosquito Behavior: Using graph-based models to decode how odors are processed in the mosquito brain, with the goal of facilitating the discovery of effective repellents.
-
-2) Glassfish Schooling Dynamics: Exploring how graph neural networks can analyze schooling fish data to uncover patterns and insights into their collective behavior.
-
-By bridging machine learning and neuroscience, I aim to contribute to innovative solutions and deepen our understanding of complex biological systems.
+I am interested in leveraging sophisticated machine learning techniques to understand complex behaviors in animals. My research focuses on applying graph neural networks to two key areas: 1) Mosquito Behavior: Using graph-based models to decode how odors are processed in the mosquito brain, with the goal of facilitating the discovery of effective repellents. 2) Glassfish Schooling Dynamics: Exploring how graph neural networks can analyze schooling fish data to uncover patterns and insights into their collective behavior. By bridging machine learning and neuroscience, I aim to contribute to innovative solutions and deepen our understanding of complex biological systems.

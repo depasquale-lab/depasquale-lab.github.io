@@ -31,6 +31,24 @@ NAIsys CSHL 2024
 
 
 {% capture text %}
+State-space models (SSMs) are powerful tools for modeling time series data that naturally arise in neuroscience, finance, and engineering. These models assume observations arise from a hidden latent sequence, encompassing methods like Hidden Markov Models (HMMs) and Linear Dynamical Systems (LDS). Our group is actively building an open-course software packge to implement these models in Julia called StateSpaceDynamics.jl. This modular package designed to be fast, readable, and self contained for the express purpose of fitting a plurality of SSMs, easily in Julia.
+
+Relevant poster: [_StateSpaceDynamics.jl: A Julia package for probabilistic state space models (SSMs)_](https://github.com/depasquale-lab/StateSpaceDynamics.jl/blob/_joss/paper/paper.pdf) \\
+Senne, R., Loschinskey, Z., Loughridge, C., Fourie, J., DePasquale, B. (2024) \\
+in prep
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/julia.png"
+  caption="SSM"
+  headline="StateSpaceDynamics.jl"
+  text=text
+%}
+
+
+{% capture text %}
 Biological neural networks compute differently than most artificial neural networks used in machine learning. For example, although real neurons communicate with spikes, reproducing this feature in artificial models has been a challenge. We develop methods for training biophysically detailed neural networks and use thse models to understand how real biologial circuits compute. Through mathematical modeling, we focus on building tighter links between biologial neural networks and more abstract artifical neural network models used in machine learning. 
 
 Relevant paper: [_The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks_](https://doi.org/10.1016/j.neuron.2022.12.007) \\

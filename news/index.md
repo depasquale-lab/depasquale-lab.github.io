@@ -3,6 +3,12 @@ title: News
 nav:
   order: 3
 ---
+2025
+======
+* Feburary 14: Valentine's day (and birthday) celebration lab meeting!
+<div style="text-align: center;">
+  <img src="/images/valentines.png" width="500">
+</div>
 
 2024
 ======

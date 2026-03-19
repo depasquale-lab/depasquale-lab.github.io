@@ -49,11 +49,11 @@ in prep
 
 
 {% capture text %}
-Biological neural networks compute differently than most artificial neural networks used in machine learning. For example, although real neurons communicate with spikes, reproducing this feature in artificial models has been a challenge. We develop methods for training biophysically detailed neural networks and use thse models to understand how real biologial circuits compute. Through mathematical modeling, we focus on building tighter links between biologial neural networks and more abstract artifical neural network models used in machine learning. 
+Biological neural networks compute differently than most artificial neural networks used in machine learning. For example, although real neurons communicate with spikes, reproducing this feature in artificial models has been a challenge. We develop methods for training biophysically detailed neural networks and use these models to understand how real biological circuits compute. Through mathematical modeling, we focus on building tighter links between biological neural networks and more abstract artificial neural network models used in machine learning.
 
 Relevant paper: [_The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks_](https://doi.org/10.1016/j.neuron.2022.12.007) \\
 DePasquale, B, Sussillo, D., Abbott, L.F., Churchland, M.M. (2023) \\
-in press at Neuron
+Neuron
 {:.center}
 {% endcapture %}
 
@@ -68,9 +68,9 @@ in press at Neuron
 {% capture text %}
 Neural recordings from behaving animals are often much too complex to link directly to an animal's ongoing behavior. We develop machine learning models to analyze complex neural datasets to understand the algorithms that underlie different behaviors. We principally focus on the neural underpinnings of movement and decision making. 
  
-Relevant paper: [_Neural population dynamics underlying evidence accumulation in multiple rat brain regions_](https://www.biorxiv.org/content/10.1101/2021.10.28.465122v1) \\
-DePasquale, B., Brody, C.D., Pillow, J. (2022) \\
-in revision at eLife
+Relevant paper: [_Neural population dynamics underlying evidence accumulation in multiple rat brain regions_](https://doi.org/10.7554/eLife.84955) \\
+DePasquale, B., Brody, C.D., Pillow, J. (2024) \\
+eLife 13: e84955
 {:.center}
 {% endcapture %}
 

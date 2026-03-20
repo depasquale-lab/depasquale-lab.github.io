@@ -16,4 +16,8 @@ After a 2 year research position as IRCN at University of Tokyo, he did his mast
 at Stony Brook University. At SBU, he worked with [Dr. Memming Park](https://www.memming.com/) 
 on expressivisity of different state space model designs. Currently, he is part of the DePasquale Lab
 and co-mentored by [Dr. Chandramouli
-Chandrasekaran](https://www.bumc.bu.edu/camed/profile/chandramouli-chandrasekaran/).
+Chandrasekaran](https://www.bumc.bu.edu/camed/profile/chandramouli-chandrasekaran/). 
+He is working on inference of neural dynamics during macaque grasping task and build online models for closed loop experiments.
+
+
+

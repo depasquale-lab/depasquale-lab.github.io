@@ -11,7 +11,7 @@ links:
   github: arora-tushar
 ---
 
-Tushar grew up in New Delhi, India where he copmleted his undergraduate studies in Computer Science.
+Tushar grew up in New Delhi, India where he completed his undergraduate studies in Computer Science.
 After a 2 year research position as IRCN at University of Tokyo, he did his masters in Neuroscience
 at Stony Brook University. At SBU, he worked with [Dr. Memming Park](https://www.memming.com/) 
 on expressivisity of different state space model designs. Currently, he is part of the DePasquale Lab

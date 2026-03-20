@@ -7,4 +7,4 @@ links:
   home-page: https://www.howe-lab.org/
 ---
 
-Tthe Howe Lab studies the role of the basal ganglia in learning.
+The Howe Lab studies the role of the basal ganglia in learning.

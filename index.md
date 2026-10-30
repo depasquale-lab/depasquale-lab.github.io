@@ -139,23 +139,6 @@ Neuron
   text=text
 %}
 
-{% capture text %}
-Neural recordings from behaving animals are often much too complex to link directly to an animal's ongoing behavior. We develop machine learning models to analyze complex neural datasets to understand the algorithms that underlie different behaviors. We principally focus on the neural underpinnings of movement and decision making. 
- 
-Relevant paper: [_Neural population dynamics underlying evidence accumulation in multiple rat brain regions_](https://doi.org/10.7554/eLife.84955) \\
-DePasquale, B., Brody, C.D., Pillow, J. (2024) \\
-eLife 13: e84955
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/Fig2.jpg"
-  caption="Ramping neural activity during decision-making"
-  title="Machine learning for neural data analysis"
-  text=text
-%}
-
 {% include section.html %}
 
 # Other Recent Publications & Preprints

@@ -6,19 +6,32 @@ description: Neuroscience (GPN) PhD student, joint with Ben Scott
 aliases:
 links:
   email: rsenne@bu.edu
-  twitter: ryan_senne
+  bluesky: ryguy.io
+  github: rsenne
   google-scholar: IwC7mqEAAAAJ&hl=en
+  orcid: 0000-0003-3776-4576
+  website: https://ryguy.io
 ---
 
-## How I got into science
+## Research
 
-The very first thing I wanted to be was a physicist. For career day in the third grade, my dad borrowed a white smock from a local restaurant that sort of looked like a lab coat. We put pens and pencils in the front pocket and he gave me some of his safety glasses to distinguish me from any would-be doctors. That same year he got me a periodic table that I would stay up late at night trying to memorize (I can still remember the first 40 elements or so). On the family computer, I read about black holes, the big bang, Schrödinger’s cat—only to quickly relay this new information to family members and unwilling friends. The idea that everything could be reduced to atoms, which could be reduced to even smaller composite particles was such a profound idea to my young mind.
+I am a computational neuroscientist, co-advised by Brian DePasquale and [Ben Scott](https://www.scottcognitionlab.com/). I build statistical models that infer the hidden states shaping behavior and neural activity, and I develop open-source tools that make these models easy to use.
 
-Unfortunately, I wasn’t destined to become the next Einstein. My love for the laws governing the cosmos was quickly overtaken by an affection for the chemical basis of life. I took three chemistry classes throughout high school and nearly majored in it here. But like physics, my interests in chemistry were eventually given up for today’s fascination: neuroscience.
+### Diurnal rhythms of decision making
 
-When I look back on my life I think it becomes fairly clear why I eventually settled on neuroscience. Truth be told, physics, chemistry, or a more generic biology career would have satiated me just the same, save for one thing—my mom. Her struggle with a debilitating psychiatric condition has been the backdrop to much of my life. I think the early experience of watching a brain behaving in an atypical way never left me. Why should the most evolutionarily advanced piece of machinery be so prone to malfunction? Why such undeserved suffering? I became deeply uncomfortable with the idea that at any moment a person’s being could be stripped away by any myriad of conditions. What did that have to say about us as people?
+Decision strategies are not fixed. They drift with arousal, motivation, and time of day. Most state-dependent models of behavior track these shifts using choices alone and ignore reaction times. I developed a state-dependent drift diffusion model that couples a drift diffusion model with a hidden Markov model, using both choices and reaction times to infer when an animal switches strategy. Applied to rats performing a decision-making task around the clock, the model reveals time-dependent changes in decision making across the 24-hour day. I presented this work at COSYNE 2026, and a [preprint](https://doi.org/10.21203/rs.3.rs-9883645/v1) is available. The code lives in [DriftDiffusionModels.jl](https://github.com/depasquale-lab/DriftDiffusionModels.jl) and [24_Hour_Behavior](https://github.com/depasquale-lab/24_Hour_Behavior).
 
-Soren Kierkegaard wrote that “Life can only be understood backwards; but it must be lived forwards.” As a kid, I just wanted to understand. That’s all scientists ever want: to understand; to follow their questions till they reach some sort of catharsis in finally knowing a little bit more than they did the previous day. That’s what I am driven by. The brain, in my opinion, is one of the last true frontiers of science. My time spent in the lab feels like an expedition to the unknown. Nothing would make me happier in this life if I could plant my flag somewhere and know that I contributed: a dwarf atop the shoulders of giants. Science is for everyone, and while it’s easy to remember names, scientific discovery is driven by the same hunger for knowledge. That is what unites scientists and that is what makes science great. With a little hard work and a lot of luck, I hope to pave my way through the brain so I can make the world a little bit more knowing than before.
+### Cross-species behavior in SHANK3 models
+
+I am also analyzing behavior across marmosets, mice, and humans, comparing individuals with SHANK3 mutations to typically developing (TD) populations. SHANK3 is a synaptic gene whose loss causes Phelan-McDermid syndrome and is strongly linked to autism. The goal is to identify which behavioral differences are shared across species.
+
+### Linking decision making to neuromodulation
+
+Shifts in decision strategy likely reflect changes in brain state, and neuromodulatory systems are prime candidates for driving them. In collaboration with the [International Brain Laboratory](https://www.internationalbrainlab.com/) (IBL), I am developing models that relate changes in decision-making behavior to recordings from neuromodulatory systems. These include dopamine neurons in the ventral tegmental area (VTA) and substantia nigra pars compacta (SNc), norepinephrine neurons in the locus coeruleus (LC), serotonin neurons in the dorsal raphe, and cholinergic neurons in the basal forebrain. The goal is to connect fluctuations in neuromodulatory activity to the hidden states that shape an animal's choices and reaction times.
+
+### StateSpaceDynamics.jl
+
+I lead development of [StateSpaceDynamics.jl](https://github.com/depasquale-lab/StateSpaceDynamics.jl), the lab's fast, self-contained Julia package for latent state-space models. It covers Gaussian and Poisson linear dynamical systems, switching linear dynamical systems, and probabilistic PCA. Many models are trialized to match the structure of neuroscience experiments, but they apply to any sequential data. The package is described in a paper in the [Journal of Open Source Software](https://doi.org/10.21105/joss.08077) (Senne et al., 2025).
 
 ## Non-science biography
 

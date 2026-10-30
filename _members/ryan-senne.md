@@ -21,7 +21,11 @@ Decision strategies are not fixed. They drift with arousal, motivation, and time
 
 ### Linking decision making to neuromodulation
 
-Shifts in decision strategy likely reflect changes in brain state, and neuromodulatory systems are prime candidates for driving them. I am developing models that relate changes in decision-making behavior to recordings from neuromodulatory systems. These include dopamine neurons in the ventral tegmental area (VTA) and substantia nigra pars compacta (SNc), and norepinephrine neurons in the locus coeruleus (LC). The goal is to connect fluctuations in neuromodulatory activity to the hidden states that shape an animal's choices and reaction times.
+Shifts in decision strategy likely reflect changes in brain state, and neuromodulatory systems are prime candidates for driving them. In collaboration with the [International Brain Laboratory](https://www.internationalbrainlab.com/) (IBL), I am developing models that relate changes in decision-making behavior to recordings from neuromodulatory systems. These include dopamine neurons in the ventral tegmental area (VTA) and substantia nigra pars compacta (SNc), norepinephrine neurons in the locus coeruleus (LC), serotonin neurons in the dorsal raphe, and cholinergic neurons in the basal forebrain. The goal is to connect fluctuations in neuromodulatory activity to the hidden states that shape an animal's choices and reaction times.
+
+### Cross-species behavior in SHANK3 models
+
+I am also analyzing behavior across marmosets, mice, and humans, comparing individuals with SHANK3 mutations to typically developing (TD) populations. SHANK3 is a synaptic gene whose loss causes Phelan-McDermid syndrome and is strongly linked to autism. The goal is to identify which behavioral differences are shared across species.
 
 ### StateSpaceDynamics.jl
 

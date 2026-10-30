@@ -67,6 +67,24 @@ bioRxiv
 
 
 {% capture text %}
+Neural responses are notoriously variable across repeated trials, yet we lack a circuit-level understanding of how this spiking noise arises and what constraints it places on computation. We hypothesize that spiking noise emerges when a circuit learns to perform many computations, reflecting a fundamental tradeoff between flexibility and noise. Training recurrent spiking networks on a set of pattern-generation tasks, we show that both error and spiking variability grow exponentially with the number of tasks learned, and that the variability is driven by synaptic input along task-irrelevant dimensions.
+
+Relevant poster: [_A Fundamental Tradeoff between Computational Flexibility and Spiking Variability in Recurrent Neural Networks_](https://openreview.net/forum?id=zCgRfzjB59) \\
+Loschinskey, Z., Economo, M., DePasquale, B. (2026) \\
+Conference on Cognitive Computational Neuroscience (CCN) 2026
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/spiking-tradeoff.jpg"
+  caption="Task performance and spiking variability in multifunctional spiking networks"
+  headline="A tradeoff between flexibility and spiking variability"
+  text=text
+%}
+
+
+{% capture text %}
 Recent advances in machine learning methods for computational chemistry have opened exciting new avenues for understanding olfaction. We are utilizing graph neural networks and self-supervised learning to identify patterns in unlabeled molecular data, generating representations of odors that are useful for predicting olfactory sensory neuron activation. These learned representations more accurately predict how individual odor molecules interact with olfactory receptors compared to existing methods.
 
 We also showed that pre-trained chemical foundation models do not outperform classical hand-designed features on odorant-receptor binding tasks unless they are fine-tuned. Our model, LORAX, uses low-rank adaptation (LoRA) with cross-attention to build olfaction-specific odorant representations that predict odorant-receptor affinity.

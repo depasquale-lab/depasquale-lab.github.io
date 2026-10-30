@@ -1,6 +1,6 @@
 ---
 name: Ryan Senne
-image: https://pbs.twimg.com/profile_images/1379424538975465472/MJwvipCT_400x400.jpg
+image: images/ryan-senne.jpg
 role: phd
 description: Neuroscience (GPN) PhD student, joint with Ben Scott
 aliases:

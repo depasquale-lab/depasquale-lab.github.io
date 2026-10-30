@@ -90,6 +90,12 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
+bluesky:
+  icon: fa-solid fa-cloud
+  text: Bluesky
+  tooltip: Bluesky
+  link: https://bsky.app/profile/$VALUE
+
 twitter:
   icon: fa-brands fa-twitter
   text: Twitter

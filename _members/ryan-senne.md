@@ -6,7 +6,7 @@ description: Neuroscience (GPN) PhD student, joint with Ben Scott
 aliases:
 links:
   email: rsenne@bu.edu
-  twitter: ryan_senne
+  bluesky: ryguy.io
   github: rsenne
   google-scholar: IwC7mqEAAAAJ&hl=en
   orcid: 0000-0003-3776-4576

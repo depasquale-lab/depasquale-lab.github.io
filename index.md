@@ -78,7 +78,7 @@ Conference on Cognitive Computational Neuroscience (CCN) 2026
 {%
   include feature.html
   image="images/spiking-tradeoff.jpg"
-  caption="Task performance and spiking variability in multifunctional spiking networks"
+  caption="Recurrent spiking network trained to perform multiple tasks"
   title="A tradeoff between flexibility and spiking variability"
   text=text
 %}

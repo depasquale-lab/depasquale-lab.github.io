@@ -8,8 +8,8 @@ nav:
 ======
 
 * [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html), [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html), [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html), and [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) pass their qualifying exam or prospectus. Congratulations all!
-* [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) presents the Zeno paper. Great job Aadi!
-* [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) presents his work on HMM-DDMs. Great job Ryan!
+* [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) presents [ZENO: Nonlinear filtering with Zakai Equation Neural Operators](https://arxiv.org/abs/2610.32926), a collaboration with Steve Flavell. Great job Aadi!
+* [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) presents [Diurnal rhythms of choice: a novel state-dependent drift diffusion model uncovers time-dependent changes in rat decision making](https://doi.org/10.21203/rs.3.rs-9883645/v1). Great job Ryan!
 
 2025
 ======

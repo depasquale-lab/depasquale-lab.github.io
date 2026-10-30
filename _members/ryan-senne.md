@@ -13,20 +13,15 @@ links:
 
 ## Research
 
-I work at the intersection of experimental and computational neuroscience, co-advised by Brian DePasquale and [Ben Scott](https://www.scottcognitionlab.com/). My work follows two threads. The first is building statistical models that infer the hidden states shaping behavior and neural activity. The second is using calcium imaging to study how astrocytes take part in learning and memory.
+I am a computational neuroscientist, co-advised by Brian DePasquale and [Ben Scott](https://www.scottcognitionlab.com/). I build statistical models that infer the hidden states shaping behavior and neural activity, and I develop open-source tools that make these models easy to use.
 
 ### Diurnal rhythms of decision making
 
 Decision strategies are not fixed. They drift with arousal, motivation, and time of day. Most state-dependent models of behavior track these shifts using choices alone and ignore reaction times. I developed a state-dependent drift diffusion model that couples a drift diffusion model with a hidden Markov model, using both choices and reaction times to infer when an animal switches strategy. Applied to rats performing a decision-making task around the clock, the model reveals time-dependent changes in decision making across the 24-hour day. I presented this work at COSYNE 2026, and the manuscript is in revision. The code lives in [DriftDiffusionModels.jl](https://github.com/depasquale-lab/DriftDiffusionModels.jl) and [24_Hour_Behavior](https://github.com/depasquale-lab/24_Hour_Behavior).
 
-### Astrocytic sequences in the hippocampus
-
-Using one-photon calcium imaging, I recorded dorsal CA1 astrocytes in mice across habituation, contextual fear conditioning, and recall in the training context and a novel context. We found that a sequence of astrocytic activity emerges during learning and memory. This work is in press at *Nature Neuroscience* (Senne & Suthard et al., 2026). The analysis code is on [GitHub](https://github.com/rsenne/dCA1_Paper).
-
 ### StateSpaceDynamics.jl
 
-I lead development of [StateSpaceDynamics.jl](https://github.com/depasquale-lab/StateSpaceDynamics.jl), the lab's open-source Julia package for state-space modeling. It implements models such as hidden Markov models and linear dynamical systems, with a simple interface for inference and parameter learning.
-
+I lead development of [StateSpaceDynamics.jl](https://github.com/depasquale-lab/StateSpaceDynamics.jl), the lab's fast, self-contained Julia package for latent state-space models. It covers Gaussian and Poisson linear dynamical systems, switching linear dynamical systems, and probabilistic PCA. Many models are trialized to match the structure of neuroscience experiments, but they apply to any sequential data. The package is described in a paper in the [Journal of Open Source Software](https://doi.org/10.21105/joss.08077) (Senne et al., 2025).
 
 ## How I got into science
 

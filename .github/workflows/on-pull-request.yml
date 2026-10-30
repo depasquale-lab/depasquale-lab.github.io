@@ -2,12 +2,19 @@ name: on-pull-request
 run-name: on pull request activity
 
 on:
-  pull_request_target:
+  pull_request:
+    branches:
+      - main
     types:
       - opened
       - reopened
       - synchronize
       - closed
+
+# a new push to a PR cancels the stale preview build for that PR
+concurrency:
+  group: preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
 
 permissions:
   contents: write

@@ -24,8 +24,8 @@ arXiv
 {%
   include feature.html
   image="images/zeno.jpg"
-  caption="True and learned drift fields recovered by ZENO"
-  headline="Filtering and inference for latent stochastic dynamics"
+  caption="True and learned Van der Pol drift fields"
+  title="Filtering and inference for latent stochastic dynamics"
   text=text
 %}
 
@@ -42,8 +42,8 @@ Research Square
 {%
   include feature.html
   image="images/diurnal-rhythms.jpg"
-  caption="Latent behavioral states across the 24-hour cycle"
-  headline="Diurnal rhythms of decision-making"
+  caption="State occupancy across the 24-hour cycle"
+  title="Diurnal rhythms of decision-making"
   text=text
 %}
 
@@ -60,8 +60,8 @@ bioRxiv
 {%
   include feature.html
   image="images/bixformer.jpg"
-  caption="Shared dynamics between two interacting brain regions"
-  headline="Disentangling inter-regional neural dynamics"
+  caption="Two brain regions communicating bidirectionally"
+  title="Disentangling inter-regional neural dynamics"
   text=text
 %}
 
@@ -79,7 +79,7 @@ Conference on Cognitive Computational Neuroscience (CCN) 2026
   include feature.html
   image="images/spiking-tradeoff.jpg"
   caption="Task performance and spiking variability in multifunctional spiking networks"
-  headline="A tradeoff between flexibility and spiking variability"
+  title="A tradeoff between flexibility and spiking variability"
   text=text
 %}
 
@@ -99,7 +99,7 @@ bioRxiv
   include feature.html
   image="images/GNN-image.jpg"
   caption="GNNs"
-  headline="Machine learning models of the early olfactory system"
+  title="Machine learning models of the early olfactory system"
   text=text
 %}
 
@@ -117,7 +117,7 @@ Journal of Open Source Software 10(115): 8077
   include feature.html
   image="images/julia.png"
   caption="SSM"
-  headline="StateSpaceDynamics.jl"
+  title="StateSpaceDynamics.jl"
   text=text
 %}
 
@@ -135,7 +135,7 @@ Neuron
   include feature.html
   image="images/NNs.jpg"
   caption="Low-rank synaptic connections in a spiking neural network"
-  headline="Biophysically detailed artificial neural networks"
+  title="Biophysically detailed artificial neural networks"
   text=text
 %}
 
@@ -152,7 +152,7 @@ eLife 13: e84955
   include feature.html
   image="images/Fig2.jpg"
   caption="Ramping neural activity during decision-making"
-  headline="Machine learning for neural data analysis"
+  title="Machine learning for neural data analysis"
   text=text
 %}
 

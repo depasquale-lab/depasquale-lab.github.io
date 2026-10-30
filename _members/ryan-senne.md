@@ -7,6 +7,7 @@ aliases:
 links:
   email: rsenne@bu.edu
   twitter: ryan_senne
+  google-scholar: IwC7mqEAAAAJ&hl=en
 ---
 
 ## How I got into science

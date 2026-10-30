@@ -8,3 +8,5 @@ links:
 ---
 
 The [Howe Lab](https://www.howe-lab.org/), led by Mark Howe, studies how circuits in the basal ganglia motivate, select, and learn the actions that lead to good outcomes. They develop tools to measure cell-type and neurotransmitter-specific signaling in the striatum, such as fiber photometry and two-photon imaging, in behaving mice. We collaborate on models of striatal dopamine signaling. [Learn more about their research.](https://www.howe-lab.org/research)
+
+**From our lab:** [Darcy Zi](darcy-zi.html) is co-mentored by Mark Howe.

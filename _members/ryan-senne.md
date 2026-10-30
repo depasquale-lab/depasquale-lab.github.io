@@ -8,6 +8,8 @@ links:
   email: rsenne@bu.edu
   twitter: ryan_senne
   github: rsenne
+  google-scholar: IwC7mqEAAAAJ&hl=en
+  orcid: 0000-0003-3776-4576
   website: https://ryguy.io
 ---
 
@@ -17,7 +19,7 @@ I am a computational neuroscientist, co-advised by Brian DePasquale and [Ben Sco
 
 ### Diurnal rhythms of decision making
 
-Decision strategies are not fixed. They drift with arousal, motivation, and time of day. Most state-dependent models of behavior track these shifts using choices alone and ignore reaction times. I developed a state-dependent drift diffusion model that couples a drift diffusion model with a hidden Markov model, using both choices and reaction times to infer when an animal switches strategy. Applied to rats performing a decision-making task around the clock, the model reveals time-dependent changes in decision making across the 24-hour day. I presented this work at COSYNE 2026, and the manuscript is in revision. The code lives in [DriftDiffusionModels.jl](https://github.com/depasquale-lab/DriftDiffusionModels.jl) and [24_Hour_Behavior](https://github.com/depasquale-lab/24_Hour_Behavior).
+Decision strategies are not fixed. They drift with arousal, motivation, and time of day. Most state-dependent models of behavior track these shifts using choices alone and ignore reaction times. I developed a state-dependent drift diffusion model that couples a drift diffusion model with a hidden Markov model, using both choices and reaction times to infer when an animal switches strategy. Applied to rats performing a decision-making task around the clock, the model reveals time-dependent changes in decision making across the 24-hour day. I presented this work at COSYNE 2026, and a [preprint](https://doi.org/10.21203/rs.3.rs-9883645/v1) is available. The code lives in [DriftDiffusionModels.jl](https://github.com/depasquale-lab/DriftDiffusionModels.jl) and [24_Hour_Behavior](https://github.com/depasquale-lab/24_Hour_Behavior).
 
 ### Cross-species behavior in SHANK3 models
 

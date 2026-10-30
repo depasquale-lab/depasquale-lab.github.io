@@ -7,4 +7,4 @@ links:
   home-page: https://www.youngerlaboratory.org/
 ---
 
-The Younger Lab studies the olfactory system of mosquitos.
+The [Younger Lab](https://www.youngerlaboratory.org/), led by Meg Younger, studies olfaction in mosquitoes: how they detect and encode human odor, and how this drives their search for a host. They combine neurophysiology, anatomy, genetics, and behavior, including CRISPR-based labeling of neuron types, functional imaging, and electron microscopy of the mosquito brain. We collaborate on machine learning models of odorant-receptor interactions. [Learn more about their research.](https://www.youngerlaboratory.org/research)

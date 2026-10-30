@@ -7,4 +7,4 @@ links:
   home-page: https://www.bu.edu/senlab/
 ---
 
-The Sen Lab investigates the processing of complex natural sounds using a combination of experimental and computational techniques. 
+The [Natural Sounds and Neural Coding Laboratory](https://www.bu.edu/senlab/), led by Kamal Sen, investigates how the brain processes complex natural sounds using a combination of electrophysiology and computational methods. Their current focus is on the cortical circuits that enable the analysis of complex auditory scenes, including how attention selects a sound source, and on brain-inspired algorithms for isolating sounds of interest.

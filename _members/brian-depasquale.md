@@ -20,11 +20,7 @@ links:
 <style>
 details.cv { margin: 0.4em 0; text-align: left; }
 details.cv > summary { font-size: 1.25rem; font-weight: 600; cursor: pointer; margin: 0.8em 0 0.3em; text-align: left; }
-/* keep the whole body in one column beside the photo, so every section lines up */
-.member-body { display: flow-root; }
 </style>
-
-<div class="member-body" markdown="1">
 
 Assistant Professor, Biomedical Engineering <br />
 Boston University <br />
@@ -165,8 +161,9 @@ For a complete list, see [Google Scholar](https://scholar.google.com/citations?u
 <details class="cv" markdown="1">
 <summary>Science Writing</summary>
 
-I sometimes write about other people’s science. Below are some examples I have contributed to the [Simon's Collaboration on the Global Brain](https://www.simonsfoundation.org/collaborations/global-brain/).
+I sometimes write about science for a broader audience, including a perspective in The Transmitter and pieces about other people's science for the [Simons Collaboration on the Global Brain](https://www.simonsfoundation.org/collaborations/global-brain/).
 
+- **2026** [Models at the speed of thought: How AI coding is reshaping theoretical neuroscience](https://www.thetransmitter.org/the-big-picture/models-at-the-speed-of-thought-how-ai-coding-is-reshaping-theoretical-neuroscience/), The Transmitter (The Big Picture)
 - **2022** [A New Era for the Neuroscience of Social Behavior](https://www.simonsfoundation.org/2022/12/15/a-new-era-for-the-neuroscience-of-social-behavior/)
 - **2022** [Searching for Shapes in Neural Activity](https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/)
 - **2021** [Hippocampal Replay: Reflection on the Past or Planning for the Future](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/)
@@ -175,5 +172,3 @@ I sometimes write about other people’s science. Below are some examples I have
 - **2020** [In Olfactory System, a Balance of Randomness and Order](https://www.simonsfoundation.org/2020/10/20/in-olfactory-system-a-balance-of-randomness-and-order/)
 
 </details>
-
-</div>

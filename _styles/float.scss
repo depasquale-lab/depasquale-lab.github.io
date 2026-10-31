@@ -36,3 +36,8 @@ $wrap: 600px;
     max-width: unset;
   }
 }
+
+/* keep member-page content beside the floated photo so heading rules do not run behind it */
+.member-body {
+  display: flow-root;
+}

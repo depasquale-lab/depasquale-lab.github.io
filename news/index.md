@@ -17,7 +17,7 @@ nav:
 
 2025
 ======
-* November: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) publishes [StateSpaceDynamics.jl](https://doi.org/10.21105/joss.08077), a Julia package for probabilistic state space models, in the Journal of Open Source Software, with [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html), James Fourie, and Carson Loughridge. Congrats Ryan!
+* November: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) publishes [StateSpaceDynamics.jl](https://doi.org/10.21105/joss.08077), a Julia package for probabilistic state space models, in the Journal of Open Source Software, with [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html), [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html), and [Carson Loughridge](https://depasquale-lab.github.io/members/carson-loughridge.html). Congrats Ryan!
 * October: Brian gives an invited talk, _Learning the Language of Smell: Foundation Models for Protein-Odor Interactions_, at the ODIN conference at the Allen Institute in Seattle.
 * July: [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) present [StateSpaceDynamics.jl](https://pretalx.com/juliacon-2025/talk/DJTA7U/) at JuliaCon 2025 in Pittsburgh.
 * Summer: Ariyana Rahmann is awarded a Distinguished Summer Research Fellowship to work in the lab. Watch her [video](../videos/ariyana-rahmann.mp4) or see BU Engineering's [feature on her research](https://www.instagram.com/reel/DPTxayGk0yK/). Great job Ariyana!
@@ -30,7 +30,7 @@ nav:
 * [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) win Hariri Graduate Student Fellowships. Congratulations Tushar and Zach!
 * [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) is awarded a Neurophotonics Center NIH T32 fellowship. Congratulations Tushar!
 * Brian is named a [Computing & Data Sciences Faculty Fellow](https://www.bu.edu/cds-faculty/profile/brian-depasquale/).
-* James Fourie completes two UROPs in the lab, in the spring and fall. Great job James!
+* [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) completes two UROPs in the lab, in the spring and fall. Great job James!
 
 2024
 ======

@@ -23,8 +23,8 @@ Boston University <br />
 Room 203, 44 Cummington Mall, Boston, MA, 02215
 
 <style>
-details.cv { margin: 0.4em 0; }
-details.cv > summary { font-size: 1.25rem; font-weight: 600; cursor: pointer; margin: 0.8em 0 0.3em; }
+details.cv { margin: 0.4em 0; text-align: left; }
+details.cv > summary { font-size: 1.25rem; font-weight: 600; cursor: pointer; margin: 0.8em 0 0.3em; text-align: left; }
 </style>
 
 ## Research summary

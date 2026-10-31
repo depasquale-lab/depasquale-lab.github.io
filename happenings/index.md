@@ -95,6 +95,17 @@ details.season { margin-left: 1.2em; }
 
 </details>
 
+<details class="season" open markdown="1">
+<summary>Winter</summary>
+
+* February: Valentine's Day (and birthday) celebration lab meeting!
+
+<div style="text-align: center;">
+  <img src="../images/valentines.jpg" width="500">
+</div>
+
+</details>
+
 </details>
 
 <details class="year" markdown="1">

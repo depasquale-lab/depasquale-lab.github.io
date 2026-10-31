@@ -23,6 +23,7 @@ It is a [Jekyll](https://jekyllrb.com) site built from the [Greene Lab website t
 | `happenings/index.md` | **Happenings** page (news, awards, talks, arrivals and lab events), newest year first. The old `/news/` address redirects here. |
 | `images/` | Photos, figures and icons. |
 | `videos/` | Hosted videos (keep these small). |
+| `CONVENTIONS.md` | How we want the site edited: what may be published, page conventions, and where to find lab photos and dates (the `#food-drinks-fun` Slack channel). `CLAUDE.md` points AI assistants at it. |
 | `_config.yaml` | Site title, description, social links and Jekyll settings. |
 | `_data/` | Data files, including `types.yaml`, which defines member roles and link icons. |
 | `_includes/`, `_layouts/`, `_styles/`, `_scripts/`, `_plugins/` | The template's building blocks. You normally do not touch these. |

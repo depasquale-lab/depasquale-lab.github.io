@@ -20,6 +20,7 @@ details.season { margin-left: 1.2em; }
 <details class="season" open markdown="1">
 <summary>Fall</summary>
 
+* October: Congratulations to [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) on being selected to give a talk at the Janelia conference [Data-Driven AI for Neuroscience](https://www.janelia.org/you-janelia/conferences/data-driven-ai-for-neuroscience), November 1 to 4, 2026!
 * October: [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html), an undergraduate in the lab, wins a UROP. Congratulations Kavya!
 * October: [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) passes his qualifying exam. Congratulations Aadi!
 * October: [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) passes his qualifying exam. Congratulations Tushar!

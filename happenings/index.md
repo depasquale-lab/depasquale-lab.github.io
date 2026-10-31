@@ -64,6 +64,7 @@ details.season { margin-left: 1.2em; }
   <img src="../images/lab-pink-hats-2026-05.jpg" width="500">
 </div>
 
+* Congratulations to [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) on his internship at DeepMind!
 * April: Brian gives a talk, _Statistical and AI Methods for Scientific Discovery in Neuroscience: From Biochemistry to Circuits to Cognition_, at the Wu Tsai Neuroscience Institute at Yale.
 * Brian, Diane Joseph-McCarthy, and James Galagan receive a Hariri Institute [Focused Research Program](https://www.bu.edu/hic/programs/focused-research-programs/frp-program-pages/42330-2/) award for _AI for Characterizing and Designing Biomolecular Interactions_.
 * [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) pass their prospectus. Congratulations Zach and Omar!

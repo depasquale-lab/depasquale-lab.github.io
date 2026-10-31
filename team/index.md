@@ -28,6 +28,17 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 {% include section.html %}
 
+## Undergraduate Researchers
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
+
+{% include section.html %}
+
 ## Alumni
 
 Those who have successfully managed Brian's terrible, terrible personality.

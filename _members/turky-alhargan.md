@@ -14,4 +14,4 @@ I am a Biomedical Engineering and Robotics student at Boston University. I am a 
 
 ## Work in the lab
 
-I worked in the lab as an undergraduate researcher in 2025, including over the summer, and presented a poster on my work at the BU UROP symposium that fall.
+I worked in the lab as an undergraduate researcher in 2025. Over the summer I worked with [Omar El Sayed](omar-el-sayed.html), and I presented a poster on my work at the BU UROP symposium that fall.

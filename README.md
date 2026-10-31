@@ -4,7 +4,7 @@ Source for the website of the Artificial and Biological Intelligence Laboratory 
 
 It is a [Jekyll](https://jekyllrb.com) site built from the [Greene Lab website template](https://github.com/greenelab/lab-website-template) ([template docs](https://greene-lab.gitbook.io/lab-website-template-docs)) and hosted on GitHub Pages. You do not need to know Jekyll to edit it. Almost everything is a Markdown file.
 
-**Last updated:** October 31, 2026 (research page, news through fall 2026, undergraduate pages). For the latest change, check the [commit history](https://github.com/depasquale-lab/depasquale-lab.github.io/commits/main). If you make a substantial content update, please bump this date.
+**Last updated:** October 31, 2026 (research page, happenings through fall 2026, undergraduate and alumni pages). For the latest change, check the [commit history](https://github.com/depasquale-lab/depasquale-lab.github.io/commits/main). If you make a substantial content update, please bump this date.
 
 ## How changes get to the site
 
@@ -20,8 +20,7 @@ It is a [Jekyll](https://jekyllrb.com) site built from the [Greene Lab website t
 | `index.md` | **Research** page (the home page). The lab description, the feature blocks with figures, and the publications list. |
 | `team/index.md` | **People** page. Lists members by role, and the "interested in joining?" text. |
 | `_members/` | One Markdown file per person or collaborating lab. Each becomes a profile page. |
-| `news/index.md` | **News** page, newest year first. |
-| `current_events/index.md` | Lab meeting and journal club schedule. |
+| `happenings/index.md` | **Happenings** page (news, awards, talks, arrivals and lab events), newest year first. The old `/news/` address redirects here. |
 | `images/` | Photos, figures and icons. |
 | `_config.yaml` | Site title, description, social links and Jekyll settings. |
 | `_data/` | Data files, including `types.yaml`, which defines member roles and link icons. |
@@ -58,9 +57,9 @@ It is a [Jekyll](https://jekyllrb.com) site built from the [Greene Lab website t
 
 Collaborating labs are members with `role: collaborator`, plus a `home-page` link.
 
-### Add a news item
+### Add a happening
 
-Edit `news/index.md`. Items are bullets under a year heading, newest first. A month is optional, and many older items have none:
+Edit `happenings/index.md`. Items are bullets under a year heading, newest first. A month is optional, and many older items have none:
 
 ```markdown
 * September: [Paper title](https://doi.org/...) is published in a journal. Congratulations!
@@ -95,7 +94,7 @@ Use `title=` for the heading above a figure. The template ignores `headline=`. M
 
 ### Add images and video
 
-- Put files in `images/` (or a new `videos/` folder) and reference them without a leading slash from top-level pages (`images/zeno.jpg`). This works on the live site and in PR previews. Pages in subfolders, such as the news page, need `../` in front.
+- Put files in `images/` (or a new `videos/` folder) and reference them without a leading slash from top-level pages (`images/zeno.jpg`). This works on the live site and in PR previews. Pages in subfolders, such as the Happenings page, need `../` in front.
 - Keep files small. Resize photos, save figures as compressed JPEGs, and re-encode videos (for example with `ffmpeg`) rather than committing raw recordings. Git keeps every version forever.
 - Only post photos, videos and details that the person is happy to have public.
 

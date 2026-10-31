@@ -1,7 +1,10 @@
 ---
-title: News
+title: Happenings
 nav:
   order: 3
+redirect_from:
+  - /news/
+  - /current_events/
 ---
 
 2026
@@ -44,20 +47,37 @@ nav:
 ======
 
 * [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) wins a Hariri Graduate Student Fellowship. Congratulations Ryan!
+* Summer: [Carson](https://depasquale-lab.github.io/members/carson-loughridge.html) and [Emily](https://depasquale-lab.github.io/members/emily-duniec.html) start in the lab for the summer!
 * May: Brian gives a talk at the Kempner Institute at Harvard, [Constructing spiking networks as a foundation for the theory of manifolds as computational substrate](https://kempnerinstitute.harvard.edu/events/brian-depasquale/).
+* May: [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html), [Halley](https://depasquale-lab.github.io/members/halley-dante.html), [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html), and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) join the lab!
 * [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presents his poster, [Improved odor-receptor interaction predictions via self supervised learning](https://drive.google.com/file/d/1xSKyyoDz0CszqX0tmbi3k7na8Mtzgu5B/view?usp=sharing), at NAISys at Cold Spring Harbor Laboratory. Great job Grant!
 * Brian is named a [Scialog Fellow](https://rescorp.org/scialog/neurobiology-and-changing-ecosystems/) for Neurobiology and Changing Ecosystems.
 * [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Grant!
 * Brian is named a Hariri Institute Junior Faculty Fellow.
-* February: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presenting his [poster](/images/Poster_draft_2.pdf) at Cosyne 2024 in Lisbon! Awesome job Grant!
+* February: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presenting his [poster](../images/Poster_draft_2.pdf) at Cosyne 2024 in Lisbon! Awesome job Grant!
 
 <div style="text-align: center;">
-  <img src="/images/IMG_4208.jpg" width="500">
+  <img src="../images/IMG_4208.jpg" width="500">
 </div>
 
 2023
 ======
+* November: The lab had a special lab meeting at Eastern Standard where we discussed which cocktails tasted the best and how we can use LLMs in our research!
+
+<div style="text-align: center;">
+  <img src="../images/eastern_standard.jpg" width="500">
+</div>
+
+* October: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presented his work on graph neural networks to predict olfactory receptor ligands. Great work Grant!
+* October: The lab worked on their NSF applications together. Good luck everyone!
+* October: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) finished his presentation on the role of astrocytes in fear learning.
 * September: See [Ryan's](https://depasquale-lab.github.io/members/ryan-senne.html) new [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.09.11.556575v1) with the Scott lab on looking at the seperation of cognitive and movement representations during evidence accumulation. Congrats Ryan!
+* September: The first official DePasquale lab meeting! [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) discussed his prior work in Dr. Steve Ramirez's lab looking at the role of astrocytes in fear learning. Great job Ryan!
+
+<div style="text-align: center;">
+  <img src="../images/depaq_jclub_ryan.jpg" width="500">
+</div>
+
 * August: [Darcy](https://depasquale-lab.github.io/members/darcy-zi.html) was awarded a T32 JSTPN Early Stage Training in Neuroscience Award from GPN. Congratulations Darcy!
 * July: Brian gives a talk at the OCNS workshop on [low-dimensional manifolds](https://cns2023.sched.com/event/1Kd7M/low-dimensional-manifolds-of-neural-dynamics-and-their-role-in-brain-function). 
 * June: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) passes his qualifying exam. Congratulations Grant!

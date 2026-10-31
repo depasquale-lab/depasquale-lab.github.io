@@ -44,7 +44,6 @@ nav:
 
 * [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) wins a Hariri Graduate Student Fellowship. Congratulations Ryan!
 * May: Brian gives a talk at the Kempner Institute at Harvard, [Constructing spiking networks as a foundation for the theory of manifolds as computational substrate](https://kempnerinstitute.harvard.edu/events/brian-depasquale/).
-* Fall: Brian develops and teaches EK125, Introduction to Programming for Engineers.
 * [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presents his poster, [Improved odor-receptor interaction predictions via self supervised learning](https://drive.google.com/file/d/1xSKyyoDz0CszqX0tmbi3k7na8Mtzgu5B/view?usp=sharing), at NAISys at Cold Spring Harbor Laboratory. Great job Grant!
 * Brian is named a [Scialog Fellow](https://rescorp.org/scialog/neurobiology-and-changing-ecosystems/) for Neurobiology and Changing Ecosystems.
 * [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Grant!
@@ -62,5 +61,4 @@ nav:
 * July: Brian gives a talk at the OCNS workshop on [low-dimensional manifolds](https://cns2023.sched.com/event/1Kd7M/low-dimensional-manifolds-of-neural-dynamics-and-their-role-in-brain-function). 
 * June: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) passes his qualifying exam. Congratulations Grant!
 * May: Brian gives a ['Research on Tap' talk at BU](https://www.youtube.com/watch?v=lXQAFrmlqhU).
-* Spring: Brian teaches BE559, Foundations of Biomedical Data Analysis and Machine Learning, for the first time.
 * January: The DePasquale Lab opens its doors!

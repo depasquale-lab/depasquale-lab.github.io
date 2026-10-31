@@ -63,6 +63,8 @@ details.season { margin-left: 1.2em; }
 * November: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) publishes [StateSpaceDynamics.jl](https://doi.org/10.21105/joss.08077), a Julia package for probabilistic state space models, in the Journal of Open Source Software, with [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html), [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html), and [Carson Loughridge](https://depasquale-lab.github.io/members/carson-loughridge.html). Congrats Ryan!
 * November: Brian gives a talk at the Department of Biomedical Engineering at Johns Hopkins University.
 * October: Brian speaks on the junior faculty panel at the Rising Stars in Engineering in Health workshop at Columbia University.
+* October: Brian is named a [Computing & Data Sciences Faculty Fellow](https://www.bu.edu/cds-faculty/profile/brian-depasquale/).
+* [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) completes a second UROP in the lab. Great job James!
 
 </details>
 
@@ -72,6 +74,8 @@ details.season { margin-left: 1.2em; }
 * July: [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) present [StateSpaceDynamics.jl](https://pretalx.com/juliacon-2025/talk/DJTA7U/) at JuliaCon 2025 in Pittsburgh.
 * [Ariyana Rahman](https://depasquale-lab.github.io/members/ariyana-rahman.html) is awarded a Distinguished Summer Research Fellowship to work in the lab. Watch her [explainer video](../videos/ariyana-rahman-dpca.mp4) on finding patterns in neural activity, or see BU Engineering's [feature on her research](https://www.instagram.com/reel/DPTxayGk0yK/). Great job Ariyana!
 * [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) attends the Marine Biological Laboratory (MBL) in Woods Hole.
+* June: [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) win Hariri Graduate Student Fellowships. Congratulations Tushar and Zach!
+* June: [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) is awarded a Neurophotonics Center NIH T32 fellowship. Congratulations Tushar!
 
 </details>
 
@@ -85,17 +89,8 @@ details.season { margin-left: 1.2em; }
 * Brian gives an invited talk, _Learning the Language of Smell: Foundation Models for Protein-Odor Interactions_, at the ODIN conference at the Allen Institute in Seattle. Watch the [video](https://www.youtube.com/watch?v=2VgAzV-8xI4).
 * March: Brian co-organizes the Cosyne workshop [Graph approaches to geometric complexity in neuroscience](https://sites.google.com/bu.edu/gnnworkshop-cosyne2025/home) with Kim Stachenfeld and Sam Lewallen.
 * March: [Darcy](https://depasquale-lab.github.io/members/darcy-zi.html) passes her qualifying exam. Congratulations Darcy!
-
-</details>
-
-<details class="season" open markdown="1">
-<summary>Throughout the year</summary>
-
 * [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Zach!
-* [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) win Hariri Graduate Student Fellowships. Congratulations Tushar and Zach!
-* [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) is awarded a Neurophotonics Center NIH T32 fellowship. Congratulations Tushar!
-* Brian is named a [Computing & Data Sciences Faculty Fellow](https://www.bu.edu/cds-faculty/profile/brian-depasquale/).
-* [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) completes two UROPs in the lab, in the spring and fall. Great job James!
+* [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) completes a UROP in the lab. Great job James!
 
 </details>
 
@@ -103,6 +98,14 @@ details.season { margin-left: 1.2em; }
 
 <details class="year" markdown="1">
 <summary>2024</summary>
+
+<details class="season" open markdown="1">
+<summary>Fall</summary>
+
+* [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presents his poster, [Improved odor-receptor interaction predictions via self supervised learning](https://drive.google.com/file/d/1xSKyyoDz0CszqX0tmbi3k7na8Mtzgu5B/view?usp=sharing), at NAISys at Cold Spring Harbor Laboratory. Great job Grant!
+* October: Brian is named a [Scialog Fellow](https://rescorp.org/scialog/neurobiology-and-changing-ecosystems/) for Neurobiology and Changing Ecosystems.
+
+</details>
 
 <details class="season" open markdown="1">
 <summary>Summer</summary>
@@ -116,6 +119,9 @@ details.season { margin-left: 1.2em; }
 
 * May: Brian gives a talk at the Kempner Institute at Harvard, [Constructing spiking networks as a foundation for the theory of manifolds as computational substrate](https://kempnerinstitute.harvard.edu/events/brian-depasquale/).
 * May: [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html), [Halley](https://depasquale-lab.github.io/members/halley-dante.html), [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html), and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) join the lab!
+* [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) wins a Hariri Graduate Student Fellowship. Congratulations Ryan!
+* Brian is named a Hariri Institute Junior Faculty Fellow.
+* [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Grant!
 
 </details>
 
@@ -127,17 +133,6 @@ details.season { margin-left: 1.2em; }
 <div style="text-align: center;">
   <img src="../images/IMG_4208.jpg" width="500">
 </div>
-
-</details>
-
-<details class="season" open markdown="1">
-<summary>Throughout the year</summary>
-
-* [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) wins a Hariri Graduate Student Fellowship. Congratulations Ryan!
-* [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presents his poster, [Improved odor-receptor interaction predictions via self supervised learning](https://drive.google.com/file/d/1xSKyyoDz0CszqX0tmbi3k7na8Mtzgu5B/view?usp=sharing), at NAISys at Cold Spring Harbor Laboratory. Great job Grant!
-* Brian is named a [Scialog Fellow](https://rescorp.org/scialog/neurobiology-and-changing-ecosystems/) for Neurobiology and Changing Ecosystems.
-* [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Grant!
-* Brian is named a Hariri Institute Junior Faculty Fellow.
 
 </details>
 

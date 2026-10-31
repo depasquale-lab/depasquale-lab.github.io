@@ -31,5 +31,15 @@
     max-width: unset;
   }
 }
+/* keep member-page content beside the floated photo so heading rules do not run behind it */
+.member-body {
+  display: flow-root;
+}
+
+/* member pages are short, so drop the divider line under section headings */
+.member-body h2 {
+  border-bottom: none;
+  padding-bottom: 0;
+}
 
 /*# sourceMappingURL=float.css.map */

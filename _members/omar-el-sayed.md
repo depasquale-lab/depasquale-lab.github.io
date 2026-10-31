@@ -24,3 +24,7 @@ Omar is developing deep learning and statistical models to uncover inter-regiona
 - **El Sayed, O.**, Han, Y., Dragoi, T., Economo, M.N., DePasquale, B. (2026). *BiXformer: A Bidirectional Cross Attention Transformer for Disentangling Inter-regional Neural Dynamics.* Under review at ICLR 2027; preprint available on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.06.05.730511v1).
 
 - Birnbaum, J.E., **El Sayed, O.**, Ugarte Nunez, J., Palmer, D., DePasquale, B., Economo, M.N. *Motor cortex differentially shapes subcortical movement dynamics through distinct descending projections* Manuscript in preparation.
+
+# Presentations
+
+- Birnbaum, J.E., **El Sayed, O.**, Ugarte Nunez, J.L., Palmer, D., DePasquale, B., Economo, M.N. (2025). *Motor cortex differentially shapes subcortical movement dynamics through distinct descending projections.* Society for Neuroscience Annual Meeting, San Diego, CA.

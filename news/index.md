@@ -25,7 +25,7 @@ nav:
 * November: Brian gives a talk at the Department of Biomedical Engineering at Johns Hopkins University.
 * October: Brian speaks on the junior faculty panel at the Rising Stars in Engineering in Health workshop at Columbia University.
 * July: [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) present [StateSpaceDynamics.jl](https://pretalx.com/juliacon-2025/talk/DJTA7U/) at JuliaCon 2025 in Pittsburgh.
-* Summer: Ariyana Rahmann is awarded a Distinguished Summer Research Fellowship to work in the lab. See BU Engineering's [feature on her research](https://www.instagram.com/reel/DPTxayGk0yK/). Great job Ariyana!
+* Summer: [Ariyana Rahmann](https://depasquale-lab.github.io/members/ariyana-rahmann.html) is awarded a Distinguished Summer Research Fellowship to work in the lab. See BU Engineering's [feature on her research](https://www.instagram.com/reel/DPTxayGk0yK/). Great job Ariyana!
 * Summer: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) attends the Marine Biological Laboratory (MBL) in Woods Hole.
 * May: Brian gives a talk at the Gatsby Computational Neuroscience Unit at UCL in London.
 * May: Brian, with Matthew Lovett-Barron (UCSD) and Brady Weissbourd (MIT), receives a [Scialog Neurobiology and Changing Ecosystems award](https://www.bu.edu/hic/2025/05/23/boston-university-brian-depasquale-wins-2025-scialog-nce-award/) for _A community AI approach to identify and predict behavioral motifs across marine life_.

@@ -5,6 +5,7 @@ role: undergrad
 description: Math and Computer Science undergraduate at Boston University
 aliases:
 links:
+  linkedin: kavya-subramanian-
 ---
 
 ## BIO

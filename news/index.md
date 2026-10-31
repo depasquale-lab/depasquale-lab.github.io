@@ -8,6 +8,7 @@ nav:
 ======
 
 * Fall: [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html), an undergraduate in the lab, wins a UROP. Congratulations Kavya!
+* September: [Recurrent synapses between CO2-sensitive olfactory sensory neurons enable robust CO2 detection in _Aedes aegypti_ mosquitoes](https://doi.org/10.1371/journal.pbio.3003959) is published in PLoS Biology, a collaboration with [Meg Younger](https://depasquale-lab.github.io/members/younger-lab.html) and Wei-Chung Allen Lee, with circuit modeling by Brian. Congratulations to everyone involved!
 * June: Brian publishes a perspective in The Transmitter, [Models at the speed of thought: How AI coding is reshaping theoretical neuroscience](https://www.thetransmitter.org/the-big-picture/models-at-the-speed-of-thought-how-ai-coding-is-reshaping-theoretical-neuroscience/), with short responses from seven neuroscientists.
 * May: Brian gives a talk at the Department of Neurobiology at UCSD.
 * April: Brian gives a talk, _Statistical and AI Methods for Scientific Discovery in Neuroscience: From Biochemistry to Circuits to Cognition_, at the Wu Tsai Neuroscience Institute at Yale.

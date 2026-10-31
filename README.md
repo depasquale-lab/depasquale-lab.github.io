@@ -60,7 +60,7 @@ Collaborating labs are members with `role: collaborator`, plus a `home-page` lin
 
 ### Add a happening
 
-Edit `happenings/index.md`. Items are bullets under a year heading, newest first. A month is optional, and many older items have none:
+Edit `happenings/index.md`. The page is a set of collapsible years, each split into collapsible seasons (Fall, Summer, Spring, Winter, and "Throughout the year" for items with no month). Add a bullet inside the right season, newest first. Months are optional: Dec to Feb is Winter, Mar to May is Spring, Jun to Aug is Summer and Sep to Nov is Fall. To start a new year, copy a whole `<details class="year">` block and change its `<summary>`:
 
 ```markdown
 * September: [Paper title](https://doi.org/...) is published in a journal. Congratulations!

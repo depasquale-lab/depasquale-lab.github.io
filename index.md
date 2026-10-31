@@ -183,6 +183,28 @@ For a full list of publications, see [Brian's Google Scholar](https://scholar.go
 
 {% include section.html %}
 
+## Acknowledgments
+
+We are grateful for the support of our funders. Thank you.
+{:.center}
+
+<style>
+  .funders { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 700px; margin: 20px auto; }
+  .funder { display: flex; align-items: center; gap: 16px; padding: 14px; border: 1px solid #ddd; border-radius: 6px; color: inherit; text-decoration: none; }
+  .funder:hover { background: #f6f6f6; }
+  .funder img, .funder .funder-text { flex: none; width: 90px; height: 70px; object-fit: contain; }
+  .funder .funder-text { display: flex; align-items: center; justify-content: center; background: #cc0000; color: white; font-weight: bold; font-size: 1.1em; border-radius: 4px; }
+  @media (max-width: 600px) { .funders { grid-template-columns: 1fr; } }
+</style>
+
+<div class="funders">
+  <a class="funder" href="https://www.nsf.gov"><img src="images/funder-nsf.png" alt="National Science Foundation logo"><span>National Science Foundation</span></a>
+  <a class="funder" href="https://sloan.org"><img src="images/funder-sloan.png" alt="Alfred P. Sloan Foundation logo"><span>Alfred P. Sloan Foundation</span></a>
+  <a class="funder" href="https://rescorp.org"><img src="images/funder-rcsa.svg" alt="Research Corporation for Science Advancement logo"><span>Research Corporation for Science Advancement</span></a>
+  <a class="funder" href="https://www.bu.edu/hic/"><span class="funder-text">BU</span><span>Hariri Institute for Computing, Boston University</span></a>
+  <a class="funder" href="https://www.bu.edu/neurophotonics/"><span class="funder-text">BU</span><span>Neurophotonics Center, Boston University</span></a>
+</div>
+
 <div style="text-align: center;">
     <img src="images/BU.jpeg" >
 </div>

@@ -1,10 +1,11 @@
 ---
-name: Ariyana Rahmann
-image: images/ariyana-rahmann.jpg
+name: Ariyana Rahman
+image: images/ariyana-rahman.jpg
 role: alumni
 description: Technical Solutions Engineer at Epic
 aliases:
 links:
+  linkedin: ariyanarahman
 ---
 
 ## BIO
@@ -17,6 +18,6 @@ In the summer of 2025 I was a Distinguished Summer Research Fellow in the lab, w
 
 ## Video
 
-<video controls preload="metadata" width="320" src="../videos/ariyana-rahmann-dpca.mp4">
-  Your browser does not support video. <a href="../videos/ariyana-rahmann-dpca.mp4">Download the video</a>.
+<video controls preload="metadata" width="320" src="../videos/ariyana-rahman-dpca.mp4">
+  Your browser does not support video. <a href="../videos/ariyana-rahman-dpca.mp4">Download the video</a>.
 </video>

@@ -20,6 +20,7 @@ details.season { margin-left: 1.2em; }
 <summary>Fall</summary>
 
 * [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html), an undergraduate in the lab, wins a UROP. Congratulations Kavya!
+* October: [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) posts a new preprint, [ZENO: Nonlinear filtering with Zakai Equation Neural Operators](https://arxiv.org/abs/2610.32926), a collaboration with Steve Flavell. Great job Aadi!
 * September: [Recurrent synapses between CO2-sensitive olfactory sensory neurons enable robust CO2 detection in _Aedes aegypti_ mosquitoes](https://doi.org/10.1371/journal.pbio.3003959) is published in PLoS Biology, a collaboration with [Meg Younger](https://depasquale-lab.github.io/members/younger-lab.html) and Wei-Chung Allen Lee, with circuit modeling by Brian. Congratulations to everyone involved!
 
 </details>
@@ -28,6 +29,8 @@ details.season { margin-left: 1.2em; }
 <summary>Summer</summary>
 
 * June: Brian publishes a perspective in The Transmitter, [Models at the speed of thought: How AI coding is reshaping theoretical neuroscience](https://www.thetransmitter.org/the-big-picture/models-at-the-speed-of-thought-how-ai-coding-is-reshaping-theoretical-neuroscience/), with short responses from seven neuroscientists.
+* June: [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) posts a new preprint, [BiXformer: A Bidirectional Cross Attention Transformer for Disentangling Inter-regional Neural Dynamics](https://www.biorxiv.org/content/10.64898/2026.06.05.730511v1). Great job Omar!
+* June: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) posts a new preprint, [Diurnal rhythms of choice: a novel state-dependent drift diffusion model uncovers time-dependent changes in rat decision making](https://doi.org/10.21203/rs.3.rs-9883645/v1). Great job Ryan!
 
 </details>
 
@@ -51,9 +54,6 @@ details.season { margin-left: 1.2em; }
 <summary>Throughout the year</summary>
 
 * [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) and [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) pass their qualifying exams, and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) pass their prospectus. Congratulations all!
-* [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) posts a new preprint, [ZENO: Nonlinear filtering with Zakai Equation Neural Operators](https://arxiv.org/abs/2610.32926), a collaboration with Steve Flavell. Great job Aadi!
-* [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) posts a new preprint, [Diurnal rhythms of choice: a novel state-dependent drift diffusion model uncovers time-dependent changes in rat decision making](https://doi.org/10.21203/rs.3.rs-9883645/v1). Great job Ryan!
-* [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) posts a new preprint, [BiXformer: A Bidirectional Cross Attention Transformer for Disentangling Inter-regional Neural Dynamics](https://www.biorxiv.org/content/10.64898/2026.06.05.730511v1). Great job Omar!
 
 </details>
 

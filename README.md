@@ -22,6 +22,7 @@ It is a [Jekyll](https://jekyllrb.com) site built from the [Greene Lab website t
 | `_members/` | One Markdown file per person or collaborating lab. Each becomes a profile page. |
 | `happenings/index.md` | **Happenings** page (news, awards, talks, arrivals and lab events), newest year first. The old `/news/` address redirects here. |
 | `images/` | Photos, figures and icons. |
+| `videos/` | Hosted videos (keep these small). |
 | `_config.yaml` | Site title, description, social links and Jekyll settings. |
 | `_data/` | Data files, including `types.yaml`, which defines member roles and link icons. |
 | `_includes/`, `_layouts/`, `_styles/`, `_scripts/`, `_plugins/` | The template's building blocks. You normally do not touch these. |
@@ -94,7 +95,7 @@ Use `title=` for the heading above a figure. The template ignores `headline=`. M
 
 ### Add images and video
 
-- Put files in `images/` (or a new `videos/` folder) and reference them without a leading slash from top-level pages (`images/zeno.jpg`). This works on the live site and in PR previews. Pages in subfolders, such as the Happenings page, need `../` in front.
+- Put files in `images/` or `videos/` and reference them without a leading slash from top-level pages (`images/zeno.jpg`). This works on the live site and in PR previews. Pages in subfolders, such as the Happenings page, need `../` in front.
 - Keep files small. Resize photos, save figures as compressed JPEGs, and re-encode videos (for example with `ffmpeg`) rather than committing raw recordings. Git keeps every version forever.
 - Only post photos, videos and details that the person is happy to have public.
 

@@ -17,15 +17,19 @@ links:
   github: briandepasquale
 ---
 
+<style>
+details.cv { margin: 0.4em 0; text-align: left; }
+details.cv > summary { font-size: 1.25rem; font-weight: 600; cursor: pointer; margin: 0.8em 0 0.3em; text-align: left; }
+/* keep the whole body in one column beside the photo, so every section lines up */
+.member-body { display: flow-root; }
+</style>
+
+<div class="member-body" markdown="1">
+
 Assistant Professor, Biomedical Engineering <br />
 Boston University <br />
 (617) 353-2816 <br />
 Room 411E, 44 Cummington Mall, Boston, MA, 02215
-
-<style>
-details.cv { margin: 0.4em 0; text-align: left; }
-details.cv > summary { font-size: 1.25rem; font-weight: 600; cursor: pointer; margin: 0.8em 0 0.3em; text-align: left; }
-</style>
 
 ## Research summary
 
@@ -173,3 +177,5 @@ I sometimes write about other people’s science. Below are some examples I have
 - **2020** [In Olfactory System, a Balance of Randomness and Order](https://www.simonsfoundation.org/2020/10/20/in-olfactory-system-a-balance-of-randomness-and-order/)
 
 </details>
+
+</div>

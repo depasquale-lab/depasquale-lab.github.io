@@ -52,6 +52,17 @@ Those who have successfully managed Brian's terrible, terrible personality.
 
 {% include section.html %}
 
+## Lab Mascot
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mascot"
+%}
+
+{% include section.html %}
+
 ## Collaborators
 
 Collaborations are central to our research. Here are some of the groups we currently work with.

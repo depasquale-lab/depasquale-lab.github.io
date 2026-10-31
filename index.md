@@ -89,9 +89,9 @@ Recent advances in machine learning methods for computational chemistry have ope
 
 We also showed that pre-trained chemical foundation models do not outperform classical hand-designed features on odorant-receptor binding tasks unless they are fine-tuned. Our model, LORAX, uses low-rank adaptation (LoRA) with cross-attention to build olfaction-specific odorant representations that predict odorant-receptor affinity.
 
-Relevant preprint: [_Low rank adaptation of chemical foundation models generates effective odorant representations_](https://doi.org/10.1101/2025.11.04.686628) \\
-[McConachie, G.D.](members/grant-mcconachie.html), [Duniec, E.](members/emily-duniec.html), Guerina, F.V., [Younger, M.A.](members/younger-lab.html), DePasquale, B. (2025) \\
-bioRxiv
+Relevant paper: [_Low rank adaptation of chemical foundation models generates effective odorant representations_](https://doi.org/10.1101/2025.11.04.686628) \\
+[McConachie, G.D.](members/grant-mcconachie.html), [Duniec, E.](members/emily-duniec.html), Guerina, F.V., [Younger, M.A.](members/younger-lab.html), DePasquale, B. (2026) \\
+International Conference on Learning Representations (ICLR) 2026; preprint on bioRxiv
 {:.center}
 {% endcapture %}
 
@@ -155,6 +155,9 @@ Nature 652(8109): 424
 * [Transitions in dynamical regime and neural mode during perceptual decisions](https://doi.org/10.1038/s41586-025-09528-4) \\
 Luo, T.Z., Kim, T.D., Gupta, D., Bondy, A., Kopec, C.D., Elliott, V.A., DePasquale, B., Brody, C.D. (2025) \\
 Nature 646(8087): 1156
+* [A state-dependent drift diffusion model reveals mice actively explore a speed-accuracy continuum during decision-making](https://doi.org/10.1101/2025.06.02.657156) \\
+[Senne, R.A.](members/ryan-senne.html), Delgado-Sallent, C., Ramirez, S., [Scott, B.B.](members/scott-lab.html), DePasquale, B. (2025) \\
+bioRxiv
 * [Neural population dynamics underlying evidence accumulation in multiple rat brain regions](https://doi.org/10.7554/eLife.84955) \\
 DePasquale, B., Brody, C.D., Pillow, J. (2024) \\
 eLife 13: e84955

@@ -20,9 +20,11 @@ details.season { margin-left: 1.2em; }
 <details class="season" open markdown="1">
 <summary>Fall</summary>
 
-* [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html), an undergraduate in the lab, wins a UROP. Congratulations Kavya!
-* [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) and [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) pass their qualifying exams. Congratulations Aadi and Tushar!
+* October: [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html), an undergraduate in the lab, wins a UROP. Congratulations Kavya!
+* October: [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) passes his qualifying exam. Congratulations Aadi!
+* October: [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) passes his qualifying exam. Congratulations Tushar!
 * October: [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) posts a new preprint, [ZENO: Nonlinear filtering with Zakai Equation Neural Operators](https://arxiv.org/abs/2610.32926), a collaboration with Steve Flavell. Great job Aadi!
+* September: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) publishes a first-author paper in Nature Neuroscience, [Hippocampal astrocytic sequences emerge during learning and memory recall](https://doi.org/10.1038/s41593-026-02448-0), with Steve Ramirez and colleagues. Congratulations Ryan!
 * September: [Recurrent synapses between CO2-sensitive olfactory sensory neurons enable robust CO2 detection in _Aedes aegypti_ mosquitoes](https://doi.org/10.1371/journal.pbio.3003959) is published in PLoS Biology, a collaboration with [Meg Younger](https://depasquale-lab.github.io/members/younger-lab.html) and Wei-Chung Allen Lee, with circuit modeling by Brian. Congratulations to everyone involved!
 
 </details>
@@ -40,7 +42,10 @@ details.season { margin-left: 1.2em; }
   <img src="../images/lab-bbq-grill-2026-07.jpg" width="500">
 </div>
 
+* June: [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) passes his prospectus. Congratulations Omar!
+* June: [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html) wins the Harold C. Case Scholarship. Congratulations Kavya!
 * June: Brian publishes a perspective in The Transmitter, [Models at the speed of thought: How AI coding is reshaping theoretical neuroscience](https://www.thetransmitter.org/the-big-picture/models-at-the-speed-of-thought-how-ai-coding-is-reshaping-theoretical-neuroscience/), with short responses from seven neuroscientists.
+* June: [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) passes his prospectus. Congratulations Zach!
 
 * June: Ice cream with the lab, just for fun.
 
@@ -67,7 +72,6 @@ details.season { margin-left: 1.2em; }
 * Congratulations to [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) on his internship at DeepMind!
 * April: Brian gives a talk, _Statistical and AI Methods for Scientific Discovery in Neuroscience: From Biochemistry to Circuits to Cognition_, at the Wu Tsai Neuroscience Institute at Yale.
 * Brian, Diane Joseph-McCarthy, and James Galagan receive a Hariri Institute [Focused Research Program](https://www.bu.edu/hic/programs/focused-research-programs/frp-program-pages/42330-2/) award for _AI for Characterizing and Designing Biomolecular Interactions_.
-* [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) pass their prospectus. Congratulations Zach and Omar!
 
 </details>
 
@@ -75,6 +79,7 @@ details.season { margin-left: 1.2em; }
 <summary>Winter</summary>
 
 * February: Brian is named a [2026 Sloan Research Fellow](https://www.bu.edu/hic/2026/02/17/boston-university-faculty-brian-depasquale-named-2026-sloan-research-fellow/) in Neuroscience.
+* January: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html)'s paper, [Low rank adaptation of chemical foundation models generates effective odorant representations](https://doi.org/10.1101/2025.11.04.686628), is accepted at ICLR 2026. Congratulations Grant!
 
 </details>
 
@@ -95,9 +100,10 @@ details.season { margin-left: 1.2em; }
   <img src="../images/lab-dinner-2025-11.jpg" width="500">
 </div>
 
+* November: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) posts a new preprint, [Low rank adaptation of chemical foundation models generates effective odorant representations](https://doi.org/10.1101/2025.11.04.686628), with [Emily](https://depasquale-lab.github.io/members/emily-duniec.html), Florence Guerina, [Meg Younger](https://depasquale-lab.github.io/members/younger-lab.html), and Brian. Great job Grant!
 * October: Brian speaks on the junior faculty panel at the Rising Stars in Engineering in Health workshop at Columbia University.
 * October: Brian is named a [Computing & Data Sciences Faculty Fellow](https://www.bu.edu/cds-faculty/profile/brian-depasquale/).
-* [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) completes a second UROP in the lab. Great job James!
+* October: [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) is awarded UROP funding for a second semester. Great job James!
 
 </details>
 
@@ -137,7 +143,6 @@ details.season { margin-left: 1.2em; }
 * March: Brian co-organizes the Cosyne workshop [Graph approaches to geometric complexity in neuroscience](https://sites.google.com/bu.edu/gnnworkshop-cosyne2025/home) with Kim Stachenfeld and Sam Lewallen.
 * March: [Darcy](https://depasquale-lab.github.io/members/darcy-zi.html) passes her qualifying exam. Congratulations Darcy!
 * [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Zach!
-* [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) completes a UROP in the lab. Great job James!
 
 </details>
 
@@ -156,6 +161,7 @@ details.season { margin-left: 1.2em; }
   <img src="../images/valentines.jpg" width="500">
 </div>
 
+* January: [James Fourie](https://depasquale-lab.github.io/members/james-fourie.html) is awarded the lab's first UROP. Great job James!
 </details>
 
 </details>
@@ -174,7 +180,7 @@ details.season { margin-left: 1.2em; }
 <details class="season" open markdown="1">
 <summary>Summer</summary>
 
-* [Carson](https://depasquale-lab.github.io/members/carson-loughridge.html) and [Emily](https://depasquale-lab.github.io/members/emily-duniec.html) start in the lab for the summer!
+* [Emily](https://depasquale-lab.github.io/members/emily-duniec.html) starts in the lab for the summer!
 
 </details>
 
@@ -183,15 +189,16 @@ details.season { margin-left: 1.2em; }
 
 * May: Brian gives a talk at the Kempner Institute at Harvard, [Constructing spiking networks as a foundation for the theory of manifolds as computational substrate](https://kempnerinstitute.harvard.edu/events/brian-depasquale/).
 * May: [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html), [Halley](https://depasquale-lab.github.io/members/halley-dante.html), [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html), and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) join the lab!
-* [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) wins a Hariri Graduate Student Fellowship. Congratulations Ryan!
+* May: [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) wins a Hariri Graduate Student Fellowship. Congratulations Ryan!
 * Brian is named a Hariri Institute Junior Faculty Fellow.
-* [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Grant!
+* April: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) wins an NSF Graduate Research Fellowship (GRFP). Congratulations Grant!
 
 </details>
 
 <details class="season" open markdown="1">
 <summary>Winter</summary>
 
+* February: [Carson](https://depasquale-lab.github.io/members/carson-loughridge.html) joins the lab.
 * February: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) presenting his [poster](../images/Poster_draft_2.pdf) at Cosyne 2024 in Lisbon! Awesome job Grant!
 
 <div style="text-align: center;">

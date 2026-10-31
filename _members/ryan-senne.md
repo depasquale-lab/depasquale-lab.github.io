@@ -37,6 +37,7 @@ I lead development of [StateSpaceDynamics.jl](https://github.com/depasquale-lab/
 
 ### Publications
 
+- **Senne, R.A.**, Suthard, R.L., Cao, R., Coello, S., Monasterio, A.H., Ruesch, E.A., Buzharsky, M.D., Howard, M.W., Ramirez, S. (2026). *Hippocampal astrocytic sequences emerge during learning and memory recall.* Nature Neuroscience. [doi](https://doi.org/10.1038/s41593-026-02448-0)
 - **Senne, R.A.**, Xia, H., Duebel, H.F., Do, Q., Kane, G.A., Fourie, J., Ramirez, S., Scott, B.B., DePasquale, B. (2026). *Diurnal rhythms of choice: a novel state-dependent drift diffusion model uncovers time-dependent changes in rat decision making.* Research Square. [preprint](https://doi.org/10.21203/rs.3.rs-9883645/v1)
 - **Senne, R.A.**, Loschinskey, Z., Fourie, J., Loughridge, C., DePasquale, B. (2025). *StateSpaceDynamics.jl: A Julia package for probabilistic state space models (SSMs).* Journal of Open Source Software 10(115): 8077. [doi](https://doi.org/10.21105/joss.08077)
 - **Senne, R.A.**, Delgado-Sallent, C., Ramirez, S., Scott, B.B., DePasquale, B. (2025). *A state-dependent drift diffusion model reveals mice actively explore a speed-accuracy continuum during decision-making.* bioRxiv. [preprint](https://doi.org/10.1101/2025.06.02.657156)

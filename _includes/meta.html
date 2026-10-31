@@ -24,17 +24,22 @@
     {{ site.subtitle }}. {{ description }}
   {%- endcapture %}
 {% endif %}
-{% capture url -%}
-  {{ site.url }}{{ site.baseurl }}
-{%- endcapture %}
+{% assign url = page.url | absolute_url %}
 
 {% assign png = "images/icon.png" | file_exists %}
 {% assign jpg = "images/icon.jpg" | file_exists %}
 {% assign icon = png | default: jpg | relative_url %}
 
+{% comment %}
+  Image used when a page is shared (Slack, social, search): the page's own
+  `image:` front matter if it has one (member pages use their portrait),
+  otherwise the site-wide default images/share.jpg. Always an absolute URL,
+  because link previews need one.
+{% endcomment %}
 {% assign jpg = "images/share.jpg" | file_exists %}
 {% assign png = "images/share.png" | file_exists %}
-{% assign share = jpg | default: png | relative_url %}
+{% assign default_share = jpg | default: png %}
+{% assign share = page.image | default: default_share | absolute_url %}
 
 {% assign published = page.date | date_to_xmlschema %}
 {% assign updated = page.last_modified_at | date_to_xmlschema %}

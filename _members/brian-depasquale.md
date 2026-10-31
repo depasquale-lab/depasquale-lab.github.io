@@ -54,7 +54,6 @@ My lab develops biologically grounded computational models, machine learning sys
 - **2026** Sloan Research Fellowship
 - **2025** Computing & Data Sciences Faculty Fellow, Boston University
 - **2025** Dean's Catalyst Award, Boston University (with Matthias Stangl and Myriam Abdennadher)
-- **2025** Scialog: Neurobiology and Changing Ecosystems team award (with Matthew Lovett-Barron and Brady Weissbourd)
 - **2024** Scialog Fellow, Neurobiology and Changing Ecosystems
 - **2024** Hariri Institute Junior Faculty Fellow, Boston University
 - **2010** National Science Foundation Graduate Research Fellowship
@@ -78,7 +77,6 @@ My lab develops biologically grounded computational models, machine learning sys
 
 **Reviewing**
 
-- **2012–present** Journal and conference reviewer: Nature Neuroscience, Nature Machine Intelligence, Neuron, Science Advances, PNAS, eLife, PLoS Computational Biology, Neural Computation, Neurons, Behavior, Data Analysis and Theory, NeurIPS, ICLR, Cosyne, Computational Cognitive Neuroscience
 - **2024, 2025** Reviewer, Rising Stars in Engineering in Health (Boston University, Columbia University)
 
 **University service**

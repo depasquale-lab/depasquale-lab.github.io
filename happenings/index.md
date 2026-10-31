@@ -20,6 +20,7 @@ details.season { margin-left: 1.2em; }
 <summary>Fall</summary>
 
 * [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html), an undergraduate in the lab, wins a UROP. Congratulations Kavya!
+* [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) and [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) pass their qualifying exams. Congratulations Aadi and Tushar!
 * October: [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) posts a new preprint, [ZENO: Nonlinear filtering with Zakai Equation Neural Operators](https://arxiv.org/abs/2610.32926), a collaboration with Steve Flavell. Great job Aadi!
 * September: [Recurrent synapses between CO2-sensitive olfactory sensory neurons enable robust CO2 detection in _Aedes aegypti_ mosquitoes](https://doi.org/10.1371/journal.pbio.3003959) is published in PLoS Biology, a collaboration with [Meg Younger](https://depasquale-lab.github.io/members/younger-lab.html) and Wei-Chung Allen Lee, with circuit modeling by Brian. Congratulations to everyone involved!
 
@@ -40,6 +41,7 @@ details.season { margin-left: 1.2em; }
 * May: Brian gives a talk at the Department of Neurobiology at UCSD.
 * April: Brian gives a talk, _Statistical and AI Methods for Scientific Discovery in Neuroscience: From Biochemistry to Circuits to Cognition_, at the Wu Tsai Neuroscience Institute at Yale.
 * Brian, Diane Joseph-McCarthy, and James Galagan receive a Hariri Institute [Focused Research Program](https://www.bu.edu/hic/programs/focused-research-programs/frp-program-pages/42330-2/) award for _AI for Characterizing and Designing Biomolecular Interactions_.
+* [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) pass their prospectus. Congratulations Zach and Omar!
 
 </details>
 
@@ -47,13 +49,6 @@ details.season { margin-left: 1.2em; }
 <summary>Winter</summary>
 
 * February: Brian is named a [2026 Sloan Research Fellow](https://www.bu.edu/hic/2026/02/17/boston-university-faculty-brian-depasquale-named-2026-sloan-research-fellow/) in Neuroscience.
-
-</details>
-
-<details class="season" open markdown="1">
-<summary>Throughout the year</summary>
-
-* [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) and [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) pass their qualifying exams, and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) pass their prospectus. Congratulations all!
 
 </details>
 

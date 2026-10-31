@@ -115,7 +115,7 @@ details.season { margin-left: 1.2em; }
 * July: [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) and [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) present [StateSpaceDynamics.jl](https://pretalx.com/juliacon-2025/talk/DJTA7U/) at JuliaCon 2025 in Pittsburgh.
 * [Ariyana Rahman](https://depasquale-lab.github.io/members/ariyana-rahman.html) is awarded a Distinguished Summer Research Fellowship to work in the lab. Watch her [explainer video](../videos/ariyana-rahman-dpca.mp4) on finding patterns in neural activity, or see BU Engineering's [feature on her research](https://www.instagram.com/reel/DPTxayGk0yK/). Great job Ariyana!
 * [Ryan](https://depasquale-lab.github.io/members/ryan-senne.html) attends the Marine Biological Laboratory (MBL) in Woods Hole.
-* Turky Alhargan, an undergraduate summer researcher, works in the lab.
+* [Turky Alhargan](https://depasquale-lab.github.io/members/turky-alhargan.html), an undergraduate summer researcher, works in the lab with [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html).
 * June: [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) and [Zach](https://depasquale-lab.github.io/members/zachary-loschinskey.html) win Hariri Graduate Student Fellowships. Congratulations Tushar and Zach!
 * June: [Tushar](https://depasquale-lab.github.io/members/tushar-arora.html) is awarded a Neurophotonics Center NIH T32 fellowship. Congratulations Tushar!
 

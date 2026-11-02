@@ -42,7 +42,7 @@ It is a [Jekyll](https://jekyllrb.com) site built from the [Greene Lab website t
    ---
    name: First Last
    image: images/first-last.jpg
-   role: phd          # pi, phd, undergrad, alumni or collaborator
+   role: phd          # pi, phd, undergrad, visitor, alumni or collaborator
    description: One line shown under your photo
    aliases:
    links:

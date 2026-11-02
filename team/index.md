@@ -39,6 +39,19 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 {% include section.html %}
 
+## Frequent Visitors
+
+Friends from other labs who are often found in ours.
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: visitor"
+%}
+
+{% include section.html %}
+
 ## Alumni
 
 Those who have successfully managed Brian's terrible, terrible personality.

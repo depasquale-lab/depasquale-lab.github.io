@@ -20,6 +20,11 @@ details.season { margin-left: 1.2em; }
 <details class="season" open markdown="1">
 <summary>Fall</summary>
 
+* November: [Grant](https://depasquale-lab.github.io/members/grant-mcconachie.html) returns from his internship at DeepMind. The lab welcomed him back with a tribute at his desk. Welcome back, Grant!
+<div style="text-align: center;">
+  <img src="../images/lab-grant-return-2026-11.jpg" width="400">
+</div>
+
 * October: Congratulations to [Omar](https://depasquale-lab.github.io/members/omar-el-sayed.html) on being selected to give a talk at the Janelia conference [Data-Driven AI for Neuroscience](https://www.janelia.org/you-janelia/conferences/data-driven-ai-for-neuroscience), November 1 to 4, 2026!
 * October: [Kavya Subramanian](https://depasquale-lab.github.io/members/kavya-subramanian.html), an undergraduate in the lab, wins a UROP. Congratulations Kavya!
 * October: [Aadi](https://depasquale-lab.github.io/members/aadi-prasad.html) passes his qualifying exam. Congratulations Aadi!

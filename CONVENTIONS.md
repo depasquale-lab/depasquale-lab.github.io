@@ -33,7 +33,7 @@ Never publish: pending or unfunded grants, funding amounts, papers under review 
 
 ## Member pages
 
-- Role decides the section: `pi`, `phd`, `undergrad`, `alumni`, `collaborator`, or `mascot`.
+- Role decides the section: `pi`, `phd`, `undergrad`, `visitor`, `alumni`, `collaborator`, or `mascot`.
 - Photo: a square JPEG, about 400 px, in `images/`.
 - Bios are first person. Build them from the person's own site or LinkedIn and keep them short.
 - Publications and presentations lists include only public work. Bold the page owner's name.

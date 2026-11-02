@@ -1,8 +1,8 @@
 ---
 name: Sarah Zylka
 image: images/sarah_zylka.jpg
-role: phd
-description: Neuroscience (GPN) PhD student, Member of Economo lab, Fun manager
+role: visitor
+description: Neuroscience (GPN) PhD student, Economo Lab, Fun manager
 aliases:
 links:
   email: szylka@bu.edu

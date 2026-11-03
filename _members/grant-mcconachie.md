@@ -19,6 +19,18 @@ I am a PhD student in the Biomedical Engineering Department. I received my under
 
 I am interested in leveraging sophisticated machine learning techniques to understand complex behaviors in animals. My research focuses on applying graph neural networks to two key areas: 1) Mosquito Behavior: Using graph-based models to decode how odors are processed in the mosquito brain, with the goal of facilitating the discovery of effective repellents. 2) Glassfish Schooling Dynamics: Exploring how graph neural networks can analyze schooling fish data to uncover patterns and insights into their collective behavior. By bridging machine learning and neuroscience, I aim to contribute to innovative solutions and deepen our understanding of complex biological systems.
 
+## Featured figure
+
+<div style="text-align: center;">
+  <img src="../images/GNN-image.jpg" width="520" alt="Machine learning models of the early olfactory system">
+</div>
+
+*Machine learning models of the early olfactory system*
+
+**What you are seeing.** A schematic of the approach. A network learns from a large library of molecules (blue) what makes odorants similar and different. Given a new molecule (orange), it predicts how olfactory sensory neurons respond and how the smell is perceived by humans (right).
+
+**Why it represents Grant's work.** Grant uses graph neural networks and chemical foundation models to learn representations of odorant molecules, with the goal of predicting how the olfactory system responds to them. This is the basis for his work on mosquito olfaction and the search for effective repellents.
+
 ## Publications and presentations
 
 ### Publications

@@ -33,6 +33,18 @@ Shifts in decision strategy likely reflect changes in brain state, and neuromodu
 
 I lead development of [StateSpaceDynamics.jl](https://github.com/depasquale-lab/StateSpaceDynamics.jl), the lab's fast, self-contained Julia package for latent state-space models. It covers Gaussian and Poisson linear dynamical systems, switching linear dynamical systems, and probabilistic PCA. Many models are trialized to match the structure of neuroscience experiments, but they apply to any sequential data. The package is described in a paper in the [Journal of Open Source Software](https://doi.org/10.21105/joss.08077) (Senne et al., 2025).
 
+## Featured figure
+
+<div style="text-align: center;">
+  <img src="../images/diurnal-rhythms.jpg" width="460" alt="State occupancy across the 24-hour cycle">
+</div>
+
+*State occupancy across the 24-hour cycle*
+
+**What you are seeing.** The model sorts each rat's behavior into four hidden states, ranked by how accurate the rat's choices are in that state. The plot shows the fraction of time spent in each state across the day, measured from the time the lights came on. Lines are averages and the shaded bands show uncertainty. The highest-accuracy state (red) dominates in the second half of the day and dips sharply about six hours after lights-on, just when the lowest- and low-mid-accuracy states (blue and purple) peak.
+
+**Why it represents Ryan's work.** This is the main result of Ryan's state-dependent drift diffusion model, which uses both choices and reaction times to infer when an animal switches decision strategy. The figure shows that those strategies are not random. They follow a daily rhythm, which is the reason to model behavior around the clock.
+
 ## Publications and presentations
 
 ### Publications

@@ -18,6 +18,18 @@ Zach grew up outside of Memphis, TN and completed his BS in Biomedical Engineeri
 ## Work
 Zach is interested in multifunctional neural computation. His current research uses recurrent spiking neural network models to investigate how realistic biological circuits flexibly compute, specifically in relation to how variability arises in neural networks. Additionally, Zach collaborates with the [Economo lab](https://economolab.org/) to apply state-space models to multiregional communication in the mouse motor system, and contributes to [StateSpaceDynamics.jl](https://github.com/depasquale-lab/StateSpaceDynamics.jl.git), an open-source Julia package for state-space modeling in neuroscience.
 
+## Featured figure
+
+<div style="text-align: center;">
+  <img src="../images/spiking-tradeoff.jpg" width="460" alt="Recurrent spiking network trained to perform multiple tasks">
+</div>
+
+*Recurrent spiking network trained to perform multiple tasks*
+
+**What you are seeing.** The model is a network of spiking neurons (gray circles) that are connected to each other (black arrows). Inputs (colored dots, on the left) drive the network, and a readout (right, green) reads out its activity and feeds the result back in. The equation underneath describes how each neuron's voltage changes over time: it relaxes toward its resting level, receives spikes from the other neurons in the network, and receives the external input. We train networks like this one to produce a set of patterns, one for each task.
+
+**Why it represents Zach's work.** Zach asks why neural responses are so variable from trial to trial. He trains this kind of network on more and more tasks and finds that both its error and its spiking variability grow rapidly with the number of tasks, an indication of a tradeoff between flexibility and noise. The figure shows the model behind that result, presented at CCN 2026.
+
 ## Publications and presentations
 
 ### Publications
